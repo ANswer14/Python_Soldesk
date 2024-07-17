@@ -1,0 +1,49 @@
+{
+	"coord": {
+		"lon": 126.9469,
+		"lat": 37.3675
+	},
+	"weather": [
+		{
+			"id": 500,
+			"main": "Rain",
+			"description": "실 비",
+			"icon": "10d"
+		}
+	],
+	"base": "stations",
+	"main": {
+		"temp": 27.04,
+		"feels_like": 30.64,
+		"temp_min": 25.74,
+		"temp_max": 30.81,
+		"pressure": 1009,
+		"humidity": 88,
+		"sea_level": 1009,
+		"grnd_level": 1004
+	},
+	"visibility": 10000,
+	"wind": {
+		"speed": 5.3,
+		"deg": 208,
+		"gust": 10.99
+	},
+	"rain": {
+		"1h": 0.74
+	},
+	"clouds": {
+		"all": 100
+	},
+	"dt": 1721193797,
+	"sys": {
+		"type": 1,
+		"id": 5509,
+		"country": "KR",
+		"sunrise": 1721161475,
+		"sunset": 1721213503
+	},
+	"timezone": 32400,
+	"id": 1842030,
+	"name": "Gunpo",
+	"cod": 200
+}
